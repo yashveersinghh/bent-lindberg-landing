@@ -1,6 +1,26 @@
-first-page
-Hey everyone!
+# 🎉 First Landing Page – HTML & CSS Practice
 
-This is my first ever coding project made with basic html and basic CSS.
+Hey everyone! 👋
 
-The landing page is where I experimented with creating a clone of Digital Designer-> Bent Lindberg's landing page
+This is my **first-ever coding project**, built using **basic HTML and CSS**.
+
+I created a simple **landing page** as a clone of **Digital Designer Bent Lindberg’s** portfolio. The goal was to practice structure, layout, and styling fundamentals.
+
+---
+
+🛠️ **Tech Stack**
+- HTML5
+- CSS3
+
+---
+
+> Just experimenting and learning the basics of layout and styling!
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/8b794a93-b2f1-4e7b-8a5a-a19426192a7a
+
